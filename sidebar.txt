@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[apq:home|Door43 (apq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-apq|d43-apq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-apq/archive/master.zip|d43-apq.zip]]
+
+**Recent Changes**
+{{changes>ns = apq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/apq|Ethnologue data]]
+
